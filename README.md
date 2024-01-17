@@ -21,7 +21,7 @@
 ## Screenshots
 
 ![Screenshot 1](Hangman_SS/Starting_screen.png)
-*         This is what you will see when you run the program*
+*This is what you will see when you run the program*
 
 ![Screenshot 2](Hangman_SS/Correct_word.png)
 *If you guess the correct word, it will displaced while hiding other letters*
