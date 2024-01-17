@@ -23,10 +23,10 @@
 ![Screenshot 1](Hangman_SS/Starting_screen.png | width = 300)
 *This is what you will see when you run the program*
 
-![Screenshot 2](Hangman_SS/Correct_word.png)
+![Screenshot 2](Hangman_SS/Correct_word.png | width = 300)
 *If you guess the correct word, it will displaced while hiding other letters*
 
-![Screenshot 3](Hangman_SS/same_letter.png)
+![Screenshot 3](Hangman_SS/same_letter.png | width = 300)
 *You will get a written message along with a beep indicating that you have entered the same letter*
 
 
