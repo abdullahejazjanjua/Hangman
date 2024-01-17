@@ -29,6 +29,15 @@
 ![Screenshot 3](Hangman_SS/same_letter.png)
 *You will get a written message along with a beep indicating that you have entered the same letter*
 
+![Screenshot 3](Hangman_SS/wrong_guess.png)
+*You will get a written message along with a beep indicating that you have entered the wrong letter and mistakes is reduced by 1*
+
+![Screenshot 3](Hangman_SS/lost.png)
+*If run wun out of mistakes then the above is printed*
+
+![Screenshot 3](Hangman_SS/win.png)
+*If you guess all the letters correctly, above is printed*
+
 
 ## Technologies Used
 
