@@ -4,7 +4,7 @@
 - **How to Play:**
   1. Clone this repository to your local machine.
      ```bash
-     git clone https://github.com/abdullahejazjanjua/GIK_semester_projects.git
+     git clone https://github.com/abdullahejazjanjua/Hangman.git
      ```
   2. Compile the C++ code using Visual Studio Code.
      - Open the project folder in VS Code.
