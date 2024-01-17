@@ -20,23 +20,48 @@
 
 ## Screenshots
 
-![Screenshot 1](Hangman_SS/Starting_screen.png)
-*This is what you will see when you run the program*
+<p align="center">
+  <img src="Hangman_SS/Starting_screen.png" alt="Screenshot 1">
+</p>
+<p align="center">
+  *This is what you will see when you run the program*
+</p>
 
-![Screenshot 2](Hangman_SS/Correct_word.png)
-*If you guess the correct word, it will displaced while hiding other letters*
+<p align="center">
+  <img src="Hangman_SS/Correct_word.png" alt="Screenshot 2">
+</p>
+<p align="center">
+  *If you guess the correct word, it will be displayed while hiding other letters*
+</p>
 
-![Screenshot 3](Hangman_SS/same_letter.png)
-*You will get a written message along with a beep indicating that you have entered the same letter*
+<p align="center">
+  <img src="Hangman_SS/same_letter.png" alt="Screenshot 3">
+</p>
+<p align="center">
+  *You will get a written message along with a beep indicating that you have entered the same letter*
+</p>
 
-![Screenshot 3](Hangman_SS/wrong_guess.png)
-*You will get a written message along with a beep indicating that you have entered the wrong letter and mistakes is reduced by 1*
+<p align="center">
+  <img src="Hangman_SS/wrong_guess.png" alt="Screenshot 4">
+</p>
+<p align="center">
+  *You will get a written message along with a beep indicating that you have entered the wrong letter and mistakes are reduced by 1*
+</p>
 
-![Screenshot 3](Hangman_SS/lost.png)
-*If run wun out of mistakes then the above is printed*
+<p align="center">
+  <img src="Hangman_SS/lost.png" alt="Screenshot 5">
+</p>
+<p align="center">
+  *If you run out of mistakes, then the above is printed*
+</p>
 
-![Screenshot 3](Hangman_SS/win.png)
-*If you guess all the letters correctly, above is printed*
+<p align="center">
+  <img src="Hangman_SS/win.png" alt="Screenshot 6">
+</p>
+<p align="center">
+  *If you guess all the letters correctly, the above is printed*
+</p>
+
 
 
 ## Technologies Used
