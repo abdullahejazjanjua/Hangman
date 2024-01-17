@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-![Screenshot 1](Hangman_SS/Starting_screen.png)
+![Screenshot 1](Hangman_SS/Starting_screen.png | width = 300)
 *This is what you will see when you run the program*
 
 ![Screenshot 2](Hangman_SS/Correct_word.png)
